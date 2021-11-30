@@ -38,24 +38,24 @@ El reportaje está dispuesto en la página web del medio inglés. Para poder lee
 
 En la **primera** podemos ver cómo se expande de forma circular el virus desde enero hasta el 19 de abril de 2020, aquel mes se registraron un gran número de casos entre los empleados extranjeros que convivían juntos. Como consecuencia, el Ministerio de Sanidad dejo de contabilizar los casos. El color azul se corresponde con los casos importados, el gris se refiere a los contagios entre locales y el rojo al de estos trabajadores extranjeros. 
 
-![expansion del virus en Singapour](./imagenes-actividad-dirigida-2/primera.png)
+![expansion del virus en Singapour](./imagenes-actividad-dirigida-2/Primera.png)
 
 La **segunda animación** sigue la forma circular de la anterior y prosigue en su contabilización desde el 20 de abril hasta el 16 de mayo, pocos días antes de publicarse este reportaje de datos. En ella observamos de forma muy visual cómo los casos dormitorio (25.525) son superiores a los locales (1.979) y a los importados (571).
 
-![expansión del virus](./imagenes-actividad-dirigida-2/segunda.png)
+![expansión del virus](./imagenes-actividad-dirigida-2/Segunda.png)
 
 En la **tercera visualización**, que esta vez es estática, podemos ver en qué lugares de Singapur se concentraban los principales 
 dormitorios con infectados. 
 
-![casos dormitorio](./imagenes-actividad-dirigida-2/tercera.png)
+![casos dormitorio](./imagenes-actividad-dirigida-2/Tercera.png)
 
 En la **cuarta** en qué sector trabajaban estos infectados. 
 
-![sectores con mas trabajadores infectados](./imagenes-actividad-dirigida-2/cuarta.png)
+![sectores con mas trabajadores infectados](./imagenes-actividad-dirigida-2/Cuarta.png)
 
 La **quinta** menciona que este tipo de dormitorios se concentran en áreas grandes y que estén más industrializadas. Por último, los autores plasman en un mapa los grupos dormitorios que había el 17 de mayo del pasado año. 
 
-![Mapa](./imagenes-actividad-dirigida-2/quinta.png)
+![Mapa](./imagenes-actividad-dirigida-2/Quinta.png)
 
 
 # Actividad 3: Creación de una visualización 
